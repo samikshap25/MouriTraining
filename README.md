@@ -1,4 +1,5 @@
 # MouriTraining
+Focus: Logic, Algorithms, and Syntax
 | Q. No. | Type                  | Problem Statement                                                                                            | Core Focus                              |
 | ------ | --------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
 | **1**  | Basic Logic           | Write a Java program to check if a given integer is a prime number.                                          | Loops, conditional statements (if/else) |
@@ -12,4 +13,17 @@
 | **9**  | Pattern Printing      | Write a program to print a right-angled triangle star pattern of N rows.                                     | Nested loops                            |
 | **10** | Number Property       | Check if a given integer is an Armstrong number.                                                             | Integer manipulation (modulo/division)  |
 
+Focus: Core Java & OOP Concepts
+| Q. No. | Concept            | Implementation Task                                                                                                               | Core Focus                             |
+| ------ | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| **11** | Classes & Objects  | Create a class named `Book` with fields for title and author; constructor to initialize; method `displayInfo()` to print details. | Class definition, Constructor, Methods |
+| **12** | Inheritance        | Define base class `Animal` and subclass `Dog`; override the method `makeSound()`.                                                 | extends, Method Overriding             |
+| **13** | Encapsulation      | Modify `Book` class: make fields private and add getter/setter for title.                                                         | private, Getters and Setters           |
+| **14** | Polymorphism       | Create abstract class `Shape` with `calculateArea()`; implement in subclasses `Circle` and `Rectangle`.                           | Abstract classes/methods               |
+| **15** | Interfaces         | Define interface `Drivable` with `startEngine()` and `stopEngine()`; implement in class `Car`.                                    | interface, implements                  |
+| **16** | Exception Handling | Write method for integer division with try-catch to handle `ArithmeticException`.                                                 | try, catch, Exception hierarchy        |
+| **17** | Collections (List) | Create ArrayList of strings; add five names; print only names starting with ‘S’.                                                  | ArrayList, Generics, enhanced for loop |
+| **18** | Collections (Map)  | Use HashMap to store three countries and their capitals; iterate to print keys & values.                                          | HashMap, Map.Entry                     |
+| **19** | Static Keyword     | Create class `Counter` with static variable `count`; constructor increments count for each object.                                | static keyword, shared state           |
+| **20** | IO Operations      | Use FileWriter to write text ("This is a test.") to `assignment_output.txt`.                                                      | java.io package, File Handling         |
 
